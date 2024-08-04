@@ -1,3 +1,4 @@
+#u have to install vpython so go to command prompt and type this code pip install vpython
 from vpython import canvas, box, cylinder, vector, color, rate
 
 # Create a 3D canvas
