@@ -1,4 +1,4 @@
-#
+#U SHLD INSTALL THESE CODES pip install pygame and pip install PyOpenGL
 import pygame
 from pygame.locals import *
 from OpenGL.GL import *
